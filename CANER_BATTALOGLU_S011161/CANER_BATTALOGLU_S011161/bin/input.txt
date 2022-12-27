@@ -1,0 +1,16 @@
+2
+0 1
+2
+0 1
+b
+5
+q1 q2 q3 qA qR
+q1
+qA
+qR
+q1 0 b R q2
+q2 0 0 R q3
+q3 0 0 R q3
+q3 b b L qA
+q2 b b L qA
+000
